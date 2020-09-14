@@ -1,39 +1,15 @@
-# Hello, World!
+# My Code Portfolio
 
-## Welcome to GitHub Pages
+Here is a small sample of some of the coding projects that I've created:
 
-You can use the [editor on GitHub](https://github.com/morphatic/morphatic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## MPG to KPL Converter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a small, introductory program that I wrote to learn how to achieve input/output on the command line and to write a simple function. I implemented this project twice with both JavaScript and Python.
 
-### Markdown
+* [Link to the Python version of my MPG to KPL converter](https://github.com/morphatic/mpg2kpl-python)
+* [Link to the JavaScript version of my MPG to KPL converter](https://github.com/morphatic/mpg2kpl-js)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I also made some videos of myself while coding to demonstrate my coding process.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morphatic/morphatic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![MPG to KPL Converter in Javascript Tutorial](mpg2kpl-js.png)](https://www.youtube.com/watch?v=J4ZyJ4jujD4&t=2047s)
+[![MPG to KPL Converter in Python Tutorial](mpg2kpl-python.png)](https://www.youtube.com/watch?v=pi3GZhmxaXU&t=1459s)
